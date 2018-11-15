@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CreateSimpleBarLayout/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CreateSimpleBarLayout/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/CreateSimpleBarLayout/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/CreateSimpleBarLayout/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a bar containing a menu and embedded text editor
 
 
